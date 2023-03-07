@@ -1,0 +1,9 @@
+# ignore all .BIN file
+*.BIN
+.vscode/*
+__pycache__/*
+.coverage
+build/
+dist/
+get-pip.py
+run.spec
